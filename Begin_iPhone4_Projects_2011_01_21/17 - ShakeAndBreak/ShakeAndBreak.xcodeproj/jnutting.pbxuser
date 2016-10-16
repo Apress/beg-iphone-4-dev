@@ -1,0 +1,119 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* ShakeAndBreak */ = {
+		activeExec = 0;
+		executables = (
+			237D1E0212E90DF000B61BC4 /* ShakeAndBreak */,
+		);
+	};
+	237D1E0212E90DF000B61BC4 /* ShakeAndBreak */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = ShakeAndBreak;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	237D1E1912E90E2E00B61BC4 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* ShakeAndBreak-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundleInfoDictionaryVersion,
+		);
+		name = "/Users/jnutting/work/Beginning iPhone Book/Begin_iPhone4_Projects_2011_01_21/17 - ShakeAndBreak/ShakeAndBreak-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	237D1E1A12E90E4900B61BC4 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* ShakeAndBreak-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundleInfoDictionaryVersion,
+		);
+		name = "/Users/jnutting/work/Beginning iPhone Book/Begin_iPhone4_Projects_2011_01_21/17 - ShakeAndBreak/ShakeAndBreak-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	237D1E2612E90E4900B61BC4 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	237D1E2712E90E4900B61BC4 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 237D1E0212E90DF000B61BC4 /* ShakeAndBreak */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* ShakeAndBreak */;
+		codeSenseManager = 237D1E2712E90E4900B61BC4 /* Code sense */;
+		executables = (
+			237D1E0212E90DF000B61BC4 /* ShakeAndBreak */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					364,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 317263344;
+			PBXWorkspaceStateSaveDate = 317263344;
+		};
+		perUserProjectItems = {
+			237D1E1912E90E2E00B61BC4 /* PlistBookmark */ = 237D1E1912E90E2E00B61BC4 /* PlistBookmark */;
+			237D1E1A12E90E4900B61BC4 /* PlistBookmark */ = 237D1E1A12E90E4900B61BC4 /* PlistBookmark */;
+		};
+		sourceControlManager = 237D1E2612E90E4900B61BC4 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+}

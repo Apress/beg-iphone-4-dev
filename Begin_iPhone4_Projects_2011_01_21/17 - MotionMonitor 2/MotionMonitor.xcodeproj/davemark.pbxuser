@@ -1,0 +1,141 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* MotionMonitor */ = {
+		activeExec = 0;
+		executables = (
+			8154176A12B9BDD400A143F6 /* MotionMonitor */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* MotionMonitorViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {481, 929}}";
+			sepNavSelRange = "{641, 0}";
+			sepNavVisRange = "{0, 647}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* MotionMonitorViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {712, 1508}}";
+			sepNavSelRange = "{1591, 0}";
+			sepNavVisRange = "{806, 2016}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 8154176A12B9BDD400A143F6 /* MotionMonitor */;
+		activeSDKPreference = iphoneos4.2;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* MotionMonitor */;
+		codeSenseManager = 8154177412B9BDE900A143F6 /* Code sense */;
+		executables = (
+			8154176A12B9BDD400A143F6 /* MotionMonitor */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					273,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 314221456;
+			PBXWorkspaceStateSaveDate = 314221456;
+		};
+		perUserProjectItems = {
+			8113741A12BA69D6000E045B /* PBXTextBookmark */ = 8113741A12BA69D6000E045B /* PBXTextBookmark */;
+			8138343312BAB2F900E50301 /* PBXTextBookmark */ = 8138343312BAB2F900E50301 /* PBXTextBookmark */;
+			8154178812B9C59F00A143F6 /* PBXTextBookmark */ = 8154178812B9C59F00A143F6 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 8154177312B9BDE900A143F6 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	8113741A12BA69D6000E045B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* MotionMonitorViewController.m */;
+		name = "MotionMonitorViewController.m: 88";
+		rLen = 0;
+		rLoc = 1028;
+		rType = 0;
+		vrLen = 1941;
+		vrLoc = 1413;
+	};
+	8138343312BAB2F900E50301 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* MotionMonitorViewController.m */;
+		name = "MotionMonitorViewController.m: 58";
+		rLen = 0;
+		rLoc = 1591;
+		rType = 0;
+		vrLen = 2016;
+		vrLoc = 806;
+	};
+	8154176A12B9BDD400A143F6 /* MotionMonitor */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = MotionMonitor;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	8154177312B9BDE900A143F6 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	8154177412B9BDE900A143F6 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	8154178812B9C59F00A143F6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* MotionMonitorViewController.h */;
+		name = "MotionMonitorViewController.h: 21";
+		rLen = 0;
+		rLoc = 599;
+		rType = 0;
+		vrLen = 580;
+		vrLoc = 0;
+	};
+}

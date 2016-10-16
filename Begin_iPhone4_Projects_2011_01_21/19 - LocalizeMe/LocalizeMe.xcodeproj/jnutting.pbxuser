@@ -1,0 +1,266 @@
+// !$*UTF8*$!
+{
+	231B8568127A938A00084D8C /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 23773E0812BA0EF000B78B35 /* LocalizeMe */;
+		activeSDKPreference = iphonesimulator4.2;
+		activeTarget = 231B8574127A938A00084D8C /* LocalizeMe */;
+		addToTargets = (
+			231B8574127A938A00084D8C /* LocalizeMe */,
+		);
+		codeSenseManager = 23773E0E12BA0F0F00B78B35 /* Code sense */;
+		executables = (
+			23773E0812BA0EF000B78B35 /* LocalizeMe */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					1234,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					324,
+					60,
+					20,
+					48.16259765625,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 317263230;
+			PBXWorkspaceStateSaveDate = 317263230;
+		};
+		perUserProjectItems = {
+			23773E2712BA195800B78B35 /* PlistBookmark */ = 23773E2712BA195800B78B35 /* PlistBookmark */;
+			237D1DD512E90D4600B61BC4 /* PBXBookmark */ = 237D1DD512E90D4600B61BC4 /* PBXBookmark */;
+			237D1DD612E90D4600B61BC4 /* PBXTextBookmark */ = 237D1DD612E90D4600B61BC4 /* PBXTextBookmark */;
+			237D1DE212E90D7C00B61BC4 /* PBXTextBookmark */ = 237D1DE212E90D7C00B61BC4 /* PBXTextBookmark */;
+			237D1DF512E90DC400B61BC4 /* PBXBookmark */ = 237D1DF512E90DC400B61BC4 /* PBXBookmark */;
+			237D1DF612E90DC400B61BC4 /* PBXBookmark */ = 237D1DF612E90DC400B61BC4 /* PBXBookmark */;
+			237D1DF712E90DC400B61BC4 /* PBXTextBookmark */ = 237D1DF712E90DC400B61BC4 /* PBXTextBookmark */;
+			237D1DF812E90DC400B61BC4 /* PBXTextBookmark */ = 237D1DF812E90DC400B61BC4 /* PBXTextBookmark */;
+			237D1DF912E90DC400B61BC4 /* PBXTextBookmark */ = 237D1DF912E90DC400B61BC4 /* PBXTextBookmark */;
+			237D1DFA12E90DC400B61BC4 /* PBXTextBookmark */ = 237D1DFA12E90DC400B61BC4 /* PBXTextBookmark */;
+			237D1DFB12E90DC400B61BC4 /* PlistBookmark */ = 237D1DFB12E90DC400B61BC4 /* PlistBookmark */;
+		};
+		sourceControlManager = 23773E0D12BA0F0F00B78B35 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	231B8574127A938A00084D8C /* LocalizeMe */ = {
+		activeExec = 0;
+		executables = (
+			23773E0812BA0EF000B78B35 /* LocalizeMe */,
+		);
+	};
+	231B8581127A938A00084D8C /* en */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {542, 291}}";
+			sepNavSelRange = "{102, 37}";
+			sepNavVisRange = "{0, 139}";
+		};
+	};
+	231B8585127A938A00084D8C /* LocalizeMeAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1412, 746}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 492}";
+		};
+	};
+	231B8586127A938A00084D8C /* LocalizeMeAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1412, 746}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 791}";
+		};
+	};
+	231B858B127A938A00084D8C /* LocalizeMeViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1412, 746}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 711}";
+		};
+	};
+	231B858C127A938A00084D8C /* LocalizeMeViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1412, 1358}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1563}";
+		};
+	};
+	23773E0812BA0EF000B78B35 /* LocalizeMe */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = LocalizeMe;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	23773E0D12BA0F0F00B78B35 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	23773E0E12BA0F0F00B78B35 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	23773E2212BA194300B78B35 /* fr */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {344, 338}}";
+			sepNavSelRange = "{126, 0}";
+			sepNavVisRange = "{0, 141}";
+		};
+	};
+	23773E2712BA195800B78B35 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 231B857E127A938A00084D8C /* LocalizeMe-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundleDisplayName,
+		);
+		name = "/Users/jnutting/work/Beginning iPhone Book/Source Code/19/LocalizeMe/LocalizeMe-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	237D1DD512E90D4600B61BC4 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 231B859B127A93DD00084D8C /* icon.png */;
+	};
+	237D1DD612E90D4600B61BC4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 231B8581127A938A00084D8C /* en */;
+		name = "InfoPlist.strings: 5";
+		rLen = 37;
+		rLoc = 102;
+		rType = 0;
+		vrLen = 139;
+		vrLoc = 0;
+	};
+	237D1DE212E90D7C00B61BC4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 23773E2212BA194300B78B35 /* fr */;
+		name = "InfoPlist.strings: 5";
+		rLen = 0;
+		rLoc = 126;
+		rType = 0;
+		vrLen = 141;
+		vrLoc = 0;
+	};
+	237D1DF512E90DC400B61BC4 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 237D1DEE12E90D9B00B61BC4 /* fr */;
+	};
+	237D1DF612E90DC400B61BC4 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 231B85A5127A9DC000084D8C /* en */;
+	};
+	237D1DF712E90DC400B61BC4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 231B8585127A938A00084D8C /* LocalizeMeAppDelegate.h */;
+		name = "LocalizeMeAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 492;
+		vrLoc = 0;
+	};
+	237D1DF812E90DC400B61BC4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 231B8586127A938A00084D8C /* LocalizeMeAppDelegate.m */;
+		name = "LocalizeMeAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 791;
+		vrLoc = 0;
+	};
+	237D1DF912E90DC400B61BC4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 231B858B127A938A00084D8C /* LocalizeMeViewController.h */;
+		name = "LocalizeMeViewController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 711;
+		vrLoc = 0;
+	};
+	237D1DFA12E90DC400B61BC4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 231B858C127A938A00084D8C /* LocalizeMeViewController.m */;
+		name = "LocalizeMeViewController.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1563;
+		vrLoc = 0;
+	};
+	237D1DFB12E90DC400B61BC4 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 231B857E127A938A00084D8C /* LocalizeMe-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundleDisplayName,
+		);
+		name = "/Users/jnutting/work/Beginning iPhone Book/Begin_iPhone4_Projects_2011_01_21/19 - LocalizeMe/LocalizeMe-Info.plist";
+		rLen = 0;
+		rLoc = 0;
+	};
+}

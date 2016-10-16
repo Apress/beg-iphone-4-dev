@@ -1,0 +1,201 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* ShakeAndBreak */ = {
+		activeExec = 0;
+		executables = (
+			237D1D3F12E9067A00B61BC4 /* ShakeAndBreak */,
+		);
+	};
+	237D1D3F12E9067A00B61BC4 /* ShakeAndBreak */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = ShakeAndBreak;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	237D1D5012E9068700B61BC4 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	237D1D5112E9068700B61BC4 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	237D1D5E12E909C200B61BC4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* ShakeAndBreakViewController.h */;
+		name = "ShakeAndBreakViewController.h: 10";
+		rLen = 0;
+		rLoc = 175;
+		rType = 0;
+		vrLen = 568;
+		vrLoc = 0;
+	};
+	237D1D7212E90A0300B61BC4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* ShakeAndBreakViewController.m */;
+		name = "ShakeAndBreakViewController.m: 60";
+		rLen = 0;
+		rLoc = 1688;
+		rType = 0;
+		vrLen = 1061;
+		vrLoc = 0;
+	};
+	237D1D7312E90A0300B61BC4 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* ShakeAndBreak-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundleInfoDictionaryVersion,
+		);
+		name = "/Users/jnutting/work/Beginning iPhone Book/Source final/17 - ShakeAndBreak - Motion Methods/ShakeAndBreak/ShakeAndBreak-Info.plist";
+		rLen = 3;
+		rLoc = 0;
+	};
+	237D1D7512E90A3700B61BC4 /* ShakeAndBreakViewController.m:66 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28D7ACF70DDB3853001CB0EB /* ShakeAndBreakViewController.m */;
+		functionName = "-motionEnded:withEvent:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 66;
+		location = ShakeAndBreak;
+		modificationTime = 317262391.613302;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	237D1D7712E90A9800B61BC4 /* ShakeAndBreakViewController.m:61 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28D7ACF70DDB3853001CB0EB /* ShakeAndBreakViewController.m */;
+		functionName = "-touchesBegan:withEvent:";
+		hitCount = 1;
+		ignoreCount = 0;
+		lineNumber = 61;
+		location = ShakeAndBreak;
+		modificationTime = 317262490.451061;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	237D1D7D12E90B9B00B61BC4 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* ShakeAndBreak-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundleIdentifier,
+		);
+		name = "/Users/jnutting/work/Beginning iPhone Book/Source final/17 - ShakeAndBreak - Motion Methods/ShakeAndBreak/ShakeAndBreak-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	28D7ACF60DDB3853001CB0EB /* ShakeAndBreakViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {779, 426}}";
+			sepNavSelRange = "{175, 0}";
+			sepNavVisRange = "{0, 568}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* ShakeAndBreakViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {779, 966}}";
+			sepNavSelRange = "{771, 0}";
+			sepNavVisRange = "{236, 905}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 237D1D3F12E9067A00B61BC4 /* ShakeAndBreak */;
+		activeSDKPreference = iphoneos4.2;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* ShakeAndBreak */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* ShakeAndBreak */,
+		);
+		breakpoints = (
+			237D1D7512E90A3700B61BC4 /* ShakeAndBreakViewController.m:66 */,
+			237D1D7712E90A9800B61BC4 /* ShakeAndBreakViewController.m:61 */,
+		);
+		codeSenseManager = 237D1D5112E9068700B61BC4 /* Code sense */;
+		executables = (
+			237D1D3F12E9067A00B61BC4 /* ShakeAndBreak */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					10,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 317261434;
+			PBXWorkspaceStateSaveDate = 317261434;
+		};
+		perUserProjectItems = {
+			237D1D5E12E909C200B61BC4 /* PBXTextBookmark */ = 237D1D5E12E909C200B61BC4 /* PBXTextBookmark */;
+			237D1D7212E90A0300B61BC4 /* PBXTextBookmark */ = 237D1D7212E90A0300B61BC4 /* PBXTextBookmark */;
+			237D1D7312E90A0300B61BC4 /* PlistBookmark */ = 237D1D7312E90A0300B61BC4 /* PlistBookmark */;
+			237D1D7D12E90B9B00B61BC4 /* PlistBookmark */ = 237D1D7D12E90B9B00B61BC4 /* PlistBookmark */;
+		};
+		sourceControlManager = 237D1D5012E9068700B61BC4 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+}

@@ -1,0 +1,135 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* MotionMonitor */ = {
+		activeExec = 0;
+		executables = (
+			8154176A12B9BDD400A143F6 /* MotionMonitor */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* MotionMonitorViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {481, 744}}";
+			sepNavSelRange = "{573, 0}";
+			sepNavVisRange = "{0, 580}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* MotionMonitorViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {712, 1625}}";
+			sepNavSelRange = "{2863, 0}";
+			sepNavVisRange = "{1366, 1988}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 8154176A12B9BDD400A143F6 /* MotionMonitor */;
+		activeSDKPreference = iphoneos4.2;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* MotionMonitor */;
+		codeSenseManager = 8154177412B9BDE900A143F6 /* Code sense */;
+		executables = (
+			8154176A12B9BDD400A143F6 /* MotionMonitor */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					273,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 314162684;
+			PBXWorkspaceStateSaveDate = 314162684;
+		};
+		perUserProjectItems = {
+			8154178812B9C59F00A143F6 /* PBXTextBookmark */ = 8154178812B9C59F00A143F6 /* PBXTextBookmark */;
+			8154178912B9C59F00A143F6 /* PBXBookmark */ = 8154178912B9C59F00A143F6 /* PBXBookmark */;
+			8154178A12B9C59F00A143F6 /* PBXTextBookmark */ = 8154178A12B9C59F00A143F6 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 8154177312B9BDE900A143F6 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	8154176A12B9BDD400A143F6 /* MotionMonitor */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = MotionMonitor;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	8154177312B9BDE900A143F6 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	8154177412B9BDE900A143F6 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	8154178812B9C59F00A143F6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* MotionMonitorViewController.h */;
+		name = "MotionMonitorViewController.h: 21";
+		rLen = 0;
+		rLoc = 573;
+		rType = 0;
+		vrLen = 580;
+		vrLoc = 0;
+	};
+	8154178912B9C59F00A143F6 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* MotionMonitorViewController.m */;
+	};
+	8154178A12B9C59F00A143F6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* MotionMonitorViewController.m */;
+		name = "MotionMonitorViewController.m: 88";
+		rLen = 0;
+		rLoc = 2863;
+		rType = 0;
+		vrLen = 1988;
+		vrLoc = 1366;
+	};
+}

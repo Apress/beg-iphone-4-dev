@@ -1,0 +1,217 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* AppSettings */ = {
+		activeExec = 0;
+		executables = (
+			816247C512A5952D00D125CC /* AppSettings */,
+		);
+	};
+	289233A80DB2D0DB0083E9F9 /* MainViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {854, 637}}";
+			sepNavSelRange = "{1679, 0}";
+			sepNavVisRange = "{148, 1571}";
+		};
+	};
+	289233A90DB2D0DB0083E9F9 /* MainViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {854, 1664}}";
+			sepNavSelRange = "{2910, 0}";
+			sepNavVisRange = "{2550, 1108}";
+		};
+	};
+	289233AC0DB2D0DB0083E9F9 /* FlipsideViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {854, 505}}";
+			sepNavSelRange = "{672, 0}";
+			sepNavVisRange = "{0, 834}";
+		};
+	};
+	289233AD0DB2D0DB0083E9F9 /* FlipsideViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {854, 1274}}";
+			sepNavSelRange = "{2054, 0}";
+			sepNavVisRange = "{1636, 907}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 816247C512A5952D00D125CC /* AppSettings */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* AppSettings */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* AppSettings */,
+		);
+		codeSenseManager = 816247DB12A5952F00D125CC /* Code sense */;
+		executables = (
+			816247C512A5952D00D125CC /* AppSettings */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					676,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 313472186;
+			PBXWorkspaceStateSaveDate = 313472186;
+		};
+		perUserProjectItems = {
+			81341F5112AFD0800009B62C /* PBXTextBookmark */ = 81341F5112AFD0800009B62C /* PBXTextBookmark */;
+			8134A78A12A9825D0014A068 /* PBXTextBookmark */ = 8134A78A12A9825D0014A068 /* PBXTextBookmark */;
+			8134A78C12A9825D0014A068 /* PBXTextBookmark */ = 8134A78C12A9825D0014A068 /* PBXTextBookmark */;
+			8162483312A73BEC00D125CC /* PBXBookmark */ = 8162483312A73BEC00D125CC /* PBXBookmark */;
+			8162483412A73BEC00D125CC /* PlistBookmark */ = 8162483412A73BEC00D125CC /* PlistBookmark */;
+			8162483512A73BEC00D125CC /* PlistBookmark */ = 8162483512A73BEC00D125CC /* PlistBookmark */;
+			8162483812A73BEC00D125CC /* PBXTextBookmark */ = 8162483812A73BEC00D125CC /* PBXTextBookmark */;
+			8162483912A73BEC00D125CC /* PBXTextBookmark */ = 8162483912A73BEC00D125CC /* PBXTextBookmark */;
+		};
+		sourceControlManager = 816247DA12A5952F00D125CC /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	81341F5112AFD0800009B62C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 289233AC0DB2D0DB0083E9F9 /* FlipsideViewController.h */;
+		name = "FlipsideViewController.h: 26";
+		rLen = 0;
+		rLoc = 672;
+		rType = 0;
+		vrLen = 834;
+		vrLoc = 0;
+	};
+	8134A78A12A9825D0014A068 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 289233A90DB2D0DB0083E9F9 /* MainViewController.m */;
+		name = "MainViewController.m: 95";
+		rLen = 0;
+		rLoc = 2910;
+		rType = 0;
+		vrLen = 1108;
+		vrLoc = 2550;
+	};
+	8134A78C12A9825D0014A068 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 289233AC0DB2D0DB0083E9F9 /* FlipsideViewController.h */;
+		name = "FlipsideViewController.h: 26";
+		rLen = 0;
+		rLoc = 672;
+		rType = 0;
+		vrLen = 834;
+		vrLoc = 0;
+	};
+	816247C512A5952D00D125CC /* AppSettings */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = AppSettings;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	816247DA12A5952F00D125CC /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	816247DB12A5952F00D125CC /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	8162483312A73BEC00D125CC /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 816247FA12A6920300D125CC /* icon.png */;
+	};
+	8162483412A73BEC00D125CC /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* AppSettings-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundleInfoDictionaryVersion,
+		);
+		name = "/Users/davemark/Documents/Writing/Beginning iPhone, iOS 4/Begin iOS 4 Projects/11 - AppSettings/AppSettings-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	8162483512A73BEC00D125CC /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8162483612A73BEC00D125CC /* Root.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			PreferenceSpecifiers,
+			2,
+			IsSecure,
+		);
+		name = "/Users/davemark/Documents/Writing/Beginning iPhone, iOS 4/Begin iOS 4 Projects/11 - AppSettings/Settings.bundle/Root.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	8162483612A73BEC00D125CC /* Root.plist */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = text.plist.xml;
+		name = Root.plist;
+		path = "/Users/davemark/Documents/Writing/Beginning iPhone, iOS 4/Begin iOS 4 Projects/11 - AppSettings/Settings.bundle/Root.plist";
+		sourceTree = "<absolute>";
+	};
+	8162483812A73BEC00D125CC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 289233A80DB2D0DB0083E9F9 /* MainViewController.h */;
+		name = "MainViewController.h: 45";
+		rLen = 0;
+		rLoc = 1679;
+		rType = 0;
+		vrLen = 1571;
+		vrLoc = 148;
+	};
+	8162483912A73BEC00D125CC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 289233AD0DB2D0DB0083E9F9 /* FlipsideViewController.m */;
+		name = "FlipsideViewController.m: 73";
+		rLen = 0;
+		rLoc = 2054;
+		rType = 0;
+		vrLen = 907;
+		vrLoc = 1636;
+	};
+}
